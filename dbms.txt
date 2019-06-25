@@ -1,0 +1,3 @@
+> alter table Train_ticket_fare Change column Train_No  TrainNo int;
+Query OK, 0 rows affected (0.10 sec)
+Records: 0  Duplicates: 0  Warnings: 0
